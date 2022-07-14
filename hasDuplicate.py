@@ -6,3 +6,4 @@ class solution:
                 return True
             map[n] = True
         return False
+
